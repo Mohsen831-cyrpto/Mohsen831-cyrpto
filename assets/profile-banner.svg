@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mohsen — Industrial Electricity and Automation</title>
+  <desc id="desc">A dark navy technical banner with circuit traces and a PLC-inspired geometric motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071426"/>
+      <stop offset="100%" stop-color="#102c49"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity=".25"/>
+      <stop offset="100%" stop-color="#67e8f9" stop-opacity=".95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <path d="M700 0V55H770V100H850V65H930V130H1020V95H1200"/>
+    <path d="M760 320V260H830V215H900V255H990V205H1060V235H1200"/>
+    <path d="M940 0V35H1010V70H1090V35H1160V75H1200"/>
+    <path d="M700 180H780V145H845V180H925V155H990"/>
+    <path d="M1080 130V170H1140V195H1200"/>
+    <path d="M735 0V25H680V55H635"/>
+  </g>
+  <g fill="#67e8f9">
+    <circle cx="770" cy="100" r="5"/><circle cx="930" cy="130" r="5"/>
+    <circle cx="990" cy="205" r="5"/><circle cx="1090" cy="35" r="5"/>
+    <circle cx="845" cy="180" r="5"/><circle cx="1140" cy="195" r="5"/>
+  </g>
+  <g transform="translate(860 95)" stroke="#7dd3fc" stroke-width="2" fill="#0b2038">
+    <rect x="0" y="0" width="220" height="120" rx="12" fill-opacity=".9"/>
+    <rect x="18" y="18" width="42" height="84" rx="5"/>
+    <rect x="72" y="18" width="130" height="24" rx="4"/>
+    <rect x="72" y="53" width="130" height="49" rx="4"/>
+    <g fill="#67e8f9" stroke="none">
+      <circle cx="39" cy="35" r="5"/><circle cx="39" cy="60" r="5"/><circle cx="39" cy="85" r="5"/>
+      <rect x="85" y="27" width="15" height="6" rx="2"/><rect x="108" y="27" width="15" height="6" rx="2"/><rect x="131" y="27" width="15" height="6" rx="2"/>
+    </g>
+    <g stroke="#38bdf8" opacity=".8">
+      <path d="M-15 24H0M-15 48H0M-15 72H0M-15 96H0"/>
+      <path d="M220 24H235M220 48H235M220 72H235M220 96H235"/>
+    </g>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="72" y="105" fill="#7dd3fc" font-size="18" font-weight="600" letter-spacing="4">INDUSTRIAL ELECTRICITY</text>
+    <text x="68" y="173" fill="#f8fafc" font-size="58" font-weight="750" letter-spacing="-1">Mohsen</text>
+    <text x="72" y="218" fill="#cbd5e1" font-size="23">PLC Programming  ·  Control Systems  ·  Automation</text>
+    <path d="M72 246H510" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
+    <text x="72" y="278" fill="#94a3b8" font-size="16" letter-spacing="1.5">LEARN  /  BUILD  /  TEST  /  IMPROVE</text>
+  </g>
+</svg>
