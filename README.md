@@ -2,6 +2,12 @@
 
 <div align="center">
 
+![Industrial automation profile banner](assets/profile-banner.svg)
+
+</div>
+
+<div align="center">
+
 # Mohsen
 ### Industrial Electricity · PLC Programming · Industrial Automation
 
